@@ -1,0 +1,80 @@
+
+
+h1{font-family: Arial, sans-serif;
+	font-size: 36px;
+	font-style: italic;
+	color: black;
+	text-align: center;
+	border: 1px solid black;
+	margin-left: 38%;
+	margin-right: 38%;
+}
+table{text-align: center;
+	border: 1px solid black;
+	border-right: 1px solid black;
+	margin: auto;
+	font-size: 16px;
+}
+td{
+	border-right: 1px solid black;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+p{font-size: 26px;
+	text-align: center;
+}
+faq p { text-align: left;
+}
+.top-banner {border-top: 1px solid black;
+			border-bottom: 1px solid black;
+}
+
+body{text-align: center;
+	background-color: #DECDC8;
+}
+address{font-style: normal;
+		font-size: 16px;
+}
+address strong{font-size: 24px;
+}
+footer > * {font-size: 12px;
+}
+.home-page-picture{width: 200px;
+					height: 200px;
+					margin: auto;
+					margin-top: 20px;
+}
+
+@keyframes CSS_Effect {
+  from {background-color: blue;}
+  to {background-color: orange;}
+}
+
+p.animation {
+	display: block;
+  margin: auto;
+  padding: 20px;
+  width: 80px;
+  height: 80px;
+  background-color: #DECDC8;
+  animation-name: CSS_Effect;
+  animation-duration: 2s;
+  animation-direction: reverse;
+  animation-iteration-count: infinite;
+}
+
+.form-container * {
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+	align-items: flex-start;
+}
+h2 {text-align: center;
+	
+	
+}
+.faq {text-align: left;
+}
+
+.faq ul {text-align: left;
+}
