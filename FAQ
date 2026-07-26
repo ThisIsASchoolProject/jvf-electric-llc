@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>JVF Electric, LLC</title>
+<link rel="stylesheet" href="styles.css" type="text/css"><link>
+</head>
+<header class="top-banner"></header>
+<h1>JVF Electric, LLC</h1>
+<body>
+<table>
+<tr>
+	<td><a href="index.html">Home</a></td>
+		<td><a href="Contact_Us.html">Contact Us</a></td>
+		<td><a href="FAQ.html">FAQ</a></td>
+		<td><a href="About_Our_Company.html">About Our Company</a></td>
+		<td><a href="Photos_of_work.html">Gallery</a></td>
+</tr>
+</table>
+<div class="faq"> 
+	<h2>We get all kinds of questions that customers frequently ask. Here are some of the basics that we get, so that you can already know ahead of time.</h2>
+	<ul>
+		<li>
+			<p><b>Do you do free estimates?</b></p>
+			<p>As of now, we do not do free estimates.</p>
+		</li>
+		<li>
+			<p><b>Do you take CashApp, Venmo, or PayPal?</b></p>
+			<p>We apologize for any inconvenience, but no we do not.</p>
+		</li>
+		<li>
+			<p><b>What areas do you service?</b></p>
+			<p>We normally stay within the Panama City and Panama City Beach area but services are mostly on a case-by-case basis.</p>
+		</li>
+	</ul>
+</div>
+<footer>
+		<p>© Copyright 2026, JVF Electric, All rights reserved.</p>
+	</footer>
+</body>
+</html>
